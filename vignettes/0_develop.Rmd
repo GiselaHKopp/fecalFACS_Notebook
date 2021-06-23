@@ -2,7 +2,7 @@
 title: "Project summary"
 output: html_notebook
 ---
-# Project development
+# Project summary
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,
