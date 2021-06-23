@@ -33,15 +33,15 @@ DNA laboratory work will be conducted at the University of Konstanz with necessa
 #### Sequencing data processing and analyses
 Sequence data will be processed and analysed with a modified version of our nextflow pipeline for genotype likelihood calling and relatedness estimation from shallow whole genome sequencing data (23), which we have developed in collaboration with the Sequencing Analysis Core Facility (SequAna) at the University of Konstanz. We will use the M. sylva-nus data set to evaluate the precision and accuracy of our analyses by comparing the obtained relat-edness coefficients to long-term monitoring data of the study population and known mother-offspring pairs (for which a relatedness coefficient of 0.5 is to be expected). For each species, we will build relatedness networks using relatedness coefficients as edge weights using igraph. To as-sess the correlation between social interaction networks and genomic relatedness networks we will use multilayer network methods (24) and (for each species) calculate edge overlap between the con-structed networks as implemented in MuxViz (25). 
 
-# Project metadata
+## Project metadata
 
-## Species
+### Species
 * Barbary macaque (*Macaca sylvanus*)  
 * Ugandan red colobus (*Piliocolobus tephrosceles*)  
 * common noctule bat (*Nyctalus noctula*)  
 * Greater noctule bat (*Nyctalus lasiopterus*)
 
-## Locations
+### Locations
 Samples were collected in the following locations:  
 
 * Affenberg Salem (Barbary macaque samples)  
@@ -63,13 +63,13 @@ Samples were collected in the following locations:
   contact: Javier Juste
   responsible: Dina
   
-## Dates
+### Dates
 Samples were collected: 
 
 * 05- 2021 (Barbary macaques, Affenberg Salem)
-* 07/2021 (Greater nocture, Donana)
+* 07/2021 (Greater noctule, Donana)
 
-## People
+### People
 **Gisela H. Kopp**
 PI  
 Sociality & Evolution/Zukunftskolleg & Dept. Biology, University of Konstanz  
@@ -80,19 +80,19 @@ responsibilities: general project coordination, finances, sample collection Barb
 collaborator  
 Migration/MPI Animal Behaviour  
 ddechmann@ab.mpg.de  
-responsibilities: sample collection bats, bat behavioural data, manuscript writing  
+responsibilities: sample collection bats (incl. permits), bat behavioural data, manuscript writing  
 
 **Urs Kalbitzer**
 collaborator    
 EAS/MPI Animal Behaviour  
 ukalbitzer@ab.mpg.de  
-responsibilities: sample collection colobus, colobus behavioural data, manuscript writing
+responsibilities: sample collection colobus (incl. permits), colobus behavioural data, manuscript writing
 
 **Camila Calderon**
 collaborator  
 Migration/MPI Animal Behaviour  
 ccalderon@ab.mpg.de  
-responsibilities: *Phyl.* sample collection
+responsibilities: *Phyl.* sample collection (incl. permits)
 
 **Melina Dietzer**
 research assistant  
@@ -100,13 +100,13 @@ Sociality & Evolution/University of Konstanz
 melina.dietzer@ab.mpg.de  
 responsibilities: laboratory analysis, sample & data management
 
-## Permits
+### Permits
 !!!!!!!!! Permit name, granting organization, permit number
 
-## Funding
+### Funding
 Project funding via CASCB Medium money grant 2021. GHK funded by Hector Pioneer Fellowship (Hector Foundation II & University of Konstanz). DD ???. UK ???. CC ???. 
 
-## Data storage
+### Data storage
 
 
 ---
