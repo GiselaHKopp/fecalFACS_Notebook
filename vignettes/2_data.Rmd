@@ -1,0 +1,25 @@
+---
+title: "Data"
+output: html_notebook
+editor_options:
+  chunk_output_type: console
+---
+
+# Data
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      comment = "#>",
+                      collapse = TRUE)
+knitr::opts_knit$set(root.dir = '../')
+```
+
+Data compiled and used in this project
+
+## Data collection
+
+
+## Data processing
+
+
+---
