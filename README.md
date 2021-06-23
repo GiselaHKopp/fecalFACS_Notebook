@@ -10,7 +10,7 @@ install.packages("bookdown")
 ```
 
 
-Please have a look at the [compiled documentation](https://giselahkopp.github.io/fecalFACS_Notebook/) for more information about this project.
+Please have a look at the [compiled documentation](https://giselahkopp.github.io/fecalFACS_Notebook/index.html) for more information about this project.
 
 ---
 
