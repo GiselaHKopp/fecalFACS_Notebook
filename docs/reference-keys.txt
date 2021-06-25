@@ -1,6 +1,6 @@
 intro
 dependencies
-project-development
+project-summary
 general-idea
 project-overview
 work-plan
@@ -15,12 +15,17 @@ people
 permits
 funding
 data-storage
+sample-collection-protocol
+equipment
+conditions-for-samples-in-storage-solution
+collection-of-samples
 project-notes
 meeting-notes
 reading-notes
 ideas-to-follow-up-on
 data
 data-collection
+nyctalus-noctula
 data-processing
 analysis
 analysis-1

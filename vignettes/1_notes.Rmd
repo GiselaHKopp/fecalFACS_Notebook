@@ -21,7 +21,7 @@ Here I collect meeting notes, ideas and papers read or must read.
 *Gisela, Dina, Urs, Camilla*  
 
 * General discussion of plan and time schedule  
-* Dina suggests to use the *Phyl.* individuals that Camila is using for experiments in the barn (06-07/2021) for sample collections. They would also give the opportunity to assess the influence of different diets (frugivorous vs. mealworms) 
+* Dina suggests to use the *Phyllostomus discolor* individuals that Camila is using for experiments in the barn (06-07/2021) for sample collections. They would also give the opportunity to assess the influence of different diets (frugivorous vs. mealworms) 
 * Gisela reports on alternative storage solution to RNAlater, DNA/RNA Shield (ZymoResearch), which has the advantage of being desinfectant and might therefore simplify sample import. She suggests to collect samples in both solutions to investigate if storage solution affects analysis results. 
 * Schedule one meeting/months to catch up on project progress and updates  
 * **To Do**  
@@ -39,7 +39,7 @@ Here I collect meeting notes, ideas and papers read or must read.
     - order dyes  
     - schedule first test runs  
   + Gisela: &check; ~~contact Affenberg again to inquire state of sample collection~~  
-  + Gisela: take *N. noctula* samples to Uni   
+  + Gisela: &check; ~~take *N. noctula* samples to Uni~~   
   
 **18.06.2021 Spanish field work meeting**  
 *Gisela, Javier*  
@@ -50,6 +50,18 @@ Here I collect meeting notes, ideas and papers read or must read.
 * **To Do**   
   + Gisela: send sample collection protocol to Javier  
   + Gisela: send sample collection material to Javier  
+
+**24.06.2021 Kibale sample collection planning**  
+*Urs, Gisela*  
+
+* sample 20 individuals, and store 2 replicate samples: 1 in RNAlater and 1 in DNA/RNAshield (study group in total: 40-50 adults)
+* material to send to Kibale: at least 40 falcon tubes, 100ml RNAlater, 180ml DNA/RNAshield, tube labels, sample boxes, gloves size M, spatulas  
+* **To Do**  
+	+ Gisela: compile & prepare material
+	+ Gisela: finalize sample collection data sheet & protocol
+	+ Urs: organize shipment
+	+ Urs: payment contracts or invoice for field assistant collection work
+ 
 
 
 ## Reading (notes)

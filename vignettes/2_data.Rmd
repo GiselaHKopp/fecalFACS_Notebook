@@ -2,7 +2,7 @@
 title: "Data"
 output: html_notebook
 editor_options:
-  chunk_output_type: console
+  chunk_output_type: inline
 ---
 
 # Data
@@ -17,6 +17,23 @@ knitr::opts_knit$set(root.dir = '../')
 Data compiled and used in this project
 
 ## Data collection
+We collect fecal samples of two primate and two bat species.
+
+### Nyctalus noctula
+Samples were collected by Lara Keicher, Dina Dechmann and colleagues during regular box monitoring at their field sites in Konstanz and Kreuzlingen.
+Sample collection data was sent via email by Lara Keicher to Gisela on 30.4.2021 and is stored in `raw_data` as `Samples_Nycnoc_20210430.csv`.
+
+```{r load Nycnoc sample collection data}
+samplesNycnoc <- read.csv("vignettes/data/data_raw/Samples_Nycnoc_20210430.csv", header = TRUE, sep = ";", as.is = TRUE)
+
+str(samplesNycnoc)
+
+
+```
+
+:::beware
+Need to check sample IDs and include in table!
+:::
 
 
 ## Data processing

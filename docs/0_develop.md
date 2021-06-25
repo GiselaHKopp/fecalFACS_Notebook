@@ -2,7 +2,7 @@
 title: "Project summary"
 output: html_notebook
 ---
-# Project development
+# Project summary
 
 
 
@@ -46,7 +46,7 @@ Samples were collected in the following locations:
 
 * **Affenberg Salem** (Barbary macaque samples)  
   Salem, Germany  
-  Contact: Dr. Roland Hilgartner (director)
+  Contact: Dr. Roland Hilgartner (director)  
   responsible: Gisela
   
 * **Kanyawara** (red colobus)  
@@ -55,17 +55,18 @@ Samples were collected in the following locations:
   responsible: Urs
   
 * **Konstanz** (common noctule)  
-  Germany
+  Germany  
   responsible: Dina
   
-* **Estacion Biologica de Donana (CSIC)** (Greater noctule)
-  Spain
-  contact: Javier Juste
+* **Estacion Biologica de Donana (CSIC)** (Greater noctule)  
+  Spain  
+  contact: Javier Juste  
   responsible: Dina
   
 ### Dates
 Samples were collected: 
 
+* 04/2021 (common noctule bat, Konstanz/Kreuzlingen)
 * 05- 2021 (Barbary macaques, Affenberg Salem)
 * 07/2021 (Greater noctule, Donana)
 
@@ -77,22 +78,22 @@ gisela.kopp@uni-konstanz.de
 responsibilities: general project coordination, finances, sample collection Barbary macaques, laboratory analysis and supervision of research assistant, data analysis, manuscript writing
 
 **Dina Dechmann**
-collaborator  
+Co-PI  
 Migration/MPI Animal Behaviour  
 ddechmann@ab.mpg.de  
 responsibilities: sample collection bats (incl. permits), bat behavioural data, manuscript writing  
 
 **Urs Kalbitzer**
-collaborator    
+Co-PI    
 EAS/MPI Animal Behaviour  
 ukalbitzer@ab.mpg.de  
 responsibilities: sample collection colobus (incl. permits), colobus behavioural data, manuscript writing
 
 **Camila Calderon**
-collaborator  
+Co-PI   
 Migration/MPI Animal Behaviour  
 ccalderon@ab.mpg.de  
-responsibilities: *Phyl.* sample collection (incl. permits)
+responsibilities: *P. discolor* sample collection (incl. permits)
 
 **Melina Dietzer**
 research assistant  
@@ -100,13 +101,67 @@ Sociality & Evolution/University of Konstanz
 melina.dietzer@ab.mpg.de  
 responsibilities: laboratory analysis, sample & data management
 
-### Permits
-!!!!!!!!! Permit name, granting organization, permit number
+**Javier Juste**
+collaborator  
+Estacion Biologica de Donana (CSIC)
+Avda. Americo Vespucio s/n
+Seville 41092
+Spain
+juste@ebd.csic.es
+responsibilities: sample collection *N. lasiopterus* (incl. permits)  
+
+
+### Permits  
+:::beware
+Permit name, granting organization, permit number
+:::
 
 ### Funding
 Project funding via CASCB Medium money grant 2021. GHK funded by Hector Pioneer Fellowship (Hector Foundation II & University of Konstanz). DD ???. UK ???. CC ???. 
 
 ### Data storage
+
+## Sample collection protocol
+
+### Equipment
+* Collection tubes 15ml (Eppendorf EP0030122160 €176,40)  
+* Storage solution:  
+	+ RNAlater Stabilization Solution (Thermo Fisher #AM7021 500ml €580)  
+	or  
+	+ DNA/RNA shield (ZymoResearch #R1100-250 250ml €241)  
+[alternative: DNA/RNA Fecal Collection Tube Zymo Research #R1101 €108 (10 pack)]
+* Tube labels (Carl Roth Cryo-Tags #L673.1 https://www.carlroth.com/de/de/etiketten/kryo-etiketten-auf-der-rolle-weiss/p/l673.1)  
+* Collection spatula  
+* Sample boxes  
+* Sample collection data sheet  
+* Plastic gloves  
+
+Prefill collection tubes with storage solution (9ml DNA/RNA shield or 5ml RNAlater)
+
+### Conditions for samples in storage solution
+* DNA/RNA shield: -20°C indefinite; 4-25°C minimum 30 days; 35-40°C 7days  
+* RNAlater: -20°C indefinite; 4°C 1 month; 25°C 7 days; 35-40°C 1days  
+
+
+### Collection of samples
+* Locate faecal material. Verify that there is no mixture of samples from different animals.   
+* Wear gloves and face mask during sample collection  
+* Place one drop / one spatula of faecal material (ca. 1ml) in collection tube.  
+* Make sure that faecal material is well covered by storage solution  
+* Note sample data on tube label and in sample collection data sheet:   
+	+ Material type (i.e. “Faeces”) & storage solution (i.e. “RNAlater” or “DNA/RNA shield”)
+	+ Species  
+	+ Sample number  
+	+ Date, Time  
+	+ Collector  
+	+ Animal ID (if applicable)  
+	+ Group ID (if applicable)  
+	+ GPS coordinates (if applicable)  
+* Note sample number on tube cap  
+* Place sample tubes in sample boxes  
+* Store sample at ambient temperature or in fridge upon shipment to the laboratory  
+
+
 
 
 ---
