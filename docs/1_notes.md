@@ -20,10 +20,10 @@ Here I collect meeting notes, ideas and papers read or must read.
 * Gisela reports on alternative storage solution to RNAlater, DNA/RNA Shield (ZymoResearch), which has the advantage of being desinfectant and might therefore simplify sample import. She suggests to collect samples in both solutions to investigate if storage solution affects analysis results. 
 * Schedule one meeting/months to catch up on project progress and updates  
 * **To Do**  
-  &check; Gisela: Order sample collection material     
+  &check; ~~Gisela: Order sample collection material~~     
     &check; ~~storage solutions RNAlater & DNA/RNAshield~~  
     &check; ~~falcon tubes~~  
-    - what else???  
+    &check; ~~what else??? spatulas!~~
   + Gisela: Sample collection material to Camilla for Phyl. in barn  
   + Urs: organize Kibale sample collection  
   &check; ~~Gisela: Hire Melina as HiWi~~  
@@ -33,8 +33,8 @@ Here I collect meeting notes, ideas and papers read or must read.
     - staining protocol  
     - order dyes  
     - schedule first test runs  
-  + Gisela: &check; ~~contact Affenberg again to inquire state of sample collection~~  
-  + Gisela: &check; ~~take *N. noctula* samples to Uni~~   
+  &check; ~~Gisela: contact Affenberg again to inquire state of sample collection~~  
+  &check; ~~Gisela: take *N. noctula* samples to Uni~~   
   
 **18.06.2021 Spanish field work meeting**  
 *Gisela, Javier*  
@@ -43,8 +43,8 @@ Here I collect meeting notes, ideas and papers read or must read.
 * Field work in July    
 * Sampling of 20 individuals possible  
 * **To Do**   
-  + Gisela: send sample collection protocol to Javier  
-  + Gisela: send sample collection material to Javier  
+  &check; ~~Gisela: send sample collection protocol to Javier~~  
+  &check; ~~Gisela: send sample collection material to Javier~~  
 
 **24.06.2021 Kibale sample collection planning**  
 *Urs, Gisela*  
@@ -53,7 +53,7 @@ Here I collect meeting notes, ideas and papers read or must read.
 * material to send to Kibale: at least 40 falcon tubes, 100ml RNAlater, 180ml DNA/RNAshield, tube labels, sample boxes, gloves size M, spatulas  
 * **To Do**  
 	+ Gisela: compile & prepare material
-	+ Gisela: finalize sample collection data sheet & protocol
+	&check; ~~Gisela: finalize sample collection data sheet & protocol~~
 	+ Urs: organize shipment
 	+ Urs: payment contracts or invoice for field assistant collection work
  
