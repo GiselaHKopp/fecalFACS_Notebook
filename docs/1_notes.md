@@ -24,7 +24,7 @@ Here I collect meeting notes, ideas and papers read or must read.
     &check; ~~storage solutions RNAlater & DNA/RNAshield~~  
     &check; ~~falcon tubes~~  
     &check; ~~what else??? spatulas!~~
-  + Gisela: Sample collection material to Camilla for Phyl. in barn  
+  &check; ~~Gisela: Sample collection material to Camilla for Phyl. in barn~~  
   + Urs: organize Kibale sample collection  
   &check; ~~Gisela: Hire Melina as HiWi~~  
   &check; ~~Gisela: create shared project folder on ownCloud~~  
@@ -52,11 +52,42 @@ Here I collect meeting notes, ideas and papers read or must read.
 * sample 20 individuals, and store 2 replicate samples: 1 in RNAlater and 1 in DNA/RNAshield (study group in total: 40-50 adults)
 * material to send to Kibale: at least 40 falcon tubes, 100ml RNAlater, 180ml DNA/RNAshield, tube labels, sample boxes, gloves size M, spatulas  
 * **To Do**  
-	+ Gisela: compile & prepare material
+	&check; ~~Gisela: compile & prepare material~~    
 	&check; ~~Gisela: finalize sample collection data sheet & protocol~~
 	+ Urs: organize shipment
 	+ Urs: payment contracts or invoice for field assistant collection work
  
+
+**22.07.2021 FlowKON planning**  
+*Gisela, Melina, Annette*  
+
+* Samples need to be decontaminated to prevent infection risk (which is increased because of high aerosol production during sorting)  
+* available samples so far:  
+  + Barbary macaques (*Macaca sylvanus*), semi-freeranging, Affenberg Salem, stored in RNAlater or Ethanol  
+  + Common noctule (*Nyctalus noctula*), freeranging, Konstanz/Kreuzlingen, stored in RNAlater;
+  + Pale spear-nosed bat (*Phyllostomus discolor*), captive, stored in RNAlater oder DNA/RNA shield  
+* according to manufacturer, DNA/RNA shield "inactivates infectious agents (viral, bacterial, fungal andparasitic)"  
+* 70% Ethanol probably efficient for inactivation  
+
+* Depending on storage solution, samples need to be transfered to other buffer, staining is conducted in in PBS-based buffer, samples need to be free of ethanol for sorting  
+* storage solution probably affects sorting analyses  
+* need to make sure, that storage solution is compatible with staining method  
+
+* include isotype control with same fluorochrome
+
+* **time schedule:**  
+  + in total aim is to analyse approx 100 samples  
+  + Potentially sorting of 3 samples/day (will become evident after establishment of sorting)  
+  + Annette on vacation End of August/beginning of September  
+  + new TA for cell sorting (probably) starts mid september, i.e. this is when we can start with sorting  
+  + July/August: verify storage solutions and effects, order staining material, test staining and sorting
+  
+* **To Do**  
+	&check; ~~Gisela: send DNA RNA shield data sheets to Annette~~   
+* Gisela: contact safety officer (Kunze) to get offical classification of safety level for samples  
+* Gisela: check ethanol concentration of Affenberg samples  
+* Gisela: email Michael Mende for lab introduction  
+* Gisela: order staining material 
 
 
 ## Reading (notes)
