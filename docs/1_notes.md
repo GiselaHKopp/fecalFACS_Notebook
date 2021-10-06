@@ -29,10 +29,10 @@ Here I collect meeting notes, ideas and papers read or must read.
   &check; ~~Gisela: Hire Melina as HiWi~~  
   &check; ~~Gisela: create shared project folder on ownCloud~~  
   &check; ~~Gisela & Dina: Meet with Javier to discuss spanish field work~~  
-  + Gisela: &check; ~~contact FlowKon again to specifiy project plan~~  
-    - staining protocol  
-    - order dyes  
-    - schedule first test runs  
+  &check; ~~Gisela: contact FlowKon again to specifiy project plan~~  
+   &check; ~~staining protocol~~   
+   &check; ~~order dyes~~   
+   &check; ~~schedule first test runs~~   
   &check; ~~Gisela: contact Affenberg again to inquire state of sample collection~~  
   &check; ~~Gisela: take *N. noctula* samples to Uni~~   
   
@@ -54,8 +54,8 @@ Here I collect meeting notes, ideas and papers read or must read.
 * **To Do**  
 	&check; ~~Gisela: compile & prepare material~~    
 	&check; ~~Gisela: finalize sample collection data sheet & protocol~~
-	+ Urs: organize shipment
-	+ Urs: payment contracts or invoice for field assistant collection work
+	+ Urs: organize shipment  
+	&check; ~~Urs: payment contracts or invoice for field assistant collection work~~
  
 
 **22.07.2021 FlowKON planning**  
@@ -84,10 +84,119 @@ Here I collect meeting notes, ideas and papers read or must read.
   
 * **To Do**  
 	&check; ~~Gisela: send DNA RNA shield data sheets to Annette~~   
-* Gisela: contact safety officer (Kunze) to get offical classification of safety level for samples  
+  &check; ~~Gisela: contact safety officer (Kunze) to get offical classification of safety level for samples~~  
 * Gisela: check ethanol concentration of Affenberg samples  
-* Gisela: email Michael Mende for lab introduction  
-* Gisela: order staining material 
+  &check; ~~Gisela: email Michael Mende for lab introduction~~  
+  &check; ~~Gisela: order staining material~~ 
+
+**02.08.2021 - labintroduction**  
+*Gisela, Michael,Melina*  
+
+**ordered**  
+
+* DPBS buffer  
+  + number: BE17-512Q, amount: 3 (VE:1000ml), price (Euro): 51.90  
+* pluriStrainer 70 μm Zellsieb  
+  + number: 43-50070-51, amount: 2 (VE: 50), price (Euro): 98.00  
+* 5 ml polystrene round- bottom FACS tubes 35 μM filter caps   
+  + number: Falcon 352235, amount:1 (VE: 500), price (Euro): 570.4    
+* 5 ml polystrene round- bottom FACS non-filter tube caps     
+  + number: Falcon 352032, amount:1 (VE: 2000), price (Euro): 144.5    
+* sterile, DNA freie, 50 ml tubes  
+  + number: Falcon 30122186, amount:1 (VE: 300), price (Euro): 144  
+* 70 % Ethanol  
+  + number: LC - 10584.1, amount:1 (VE: 1L), price (Euro): 29.9  
+* sterile 2 ml tubes  
+  + number: 30121597, amount:2 (VE: 100), price (Euro): 81.8  
+* Filterspitze, 1000 µl, transparent, Biosphere® plus, 96 Stück/SingleRefill  
+  + number: 70.3060.355, amount:1 (VE: 1920), price (Euro): --  
+* Filterspitze, 1000 µl, transparent, Biosphere® plus, 96 Stück/Box  
+  + number: 70.3060.255, amount:1 (VE: 1920), price (Euro): --  
+* Filterspitze, 300 µl, transparent, Biosphere® plus, 96 Stück/SingleRefill  
+  + number: 70.3040.355, amount:1 (VE: 1920), price (Euro): --  
+* Filterspitze, 300 µl, transparent, Biosphere® plus, 96 Stück/Box  
+  + number: 70.3040.255, amount:1 (VE: 1920), price (Euro): --  
+* Pipettenspitze, 10 µl, transparent, Biosphere® plus, 96 Stück/Box  
+  + number: 70.1130.200, amount:1 (VE: 1920), price (Euro): --  
+* Eppendorf Research® plus   
+  + number: 3123000101, amount:1, price (Euro): 257  
+* Pan Cytokeratin Monoclonal Antibody (AE1/AE3), Alexa Fluor 488  
+  + number: 53-9003-82, amount:2 (VE: 100 μg), price (Euro): 900  
+* stain toto3 1 mM Solution in DMSO  
+  + number: T3604, amount:1 (VE: 200 μl), price (Euro): 844  
+* Tischständer SEKUROKA® für Abfallbeutel Höhe 25 cm, Tischständer  
+  + number: H508.1, amount:3, price (Euro): 32.85  
+* Tischständer SEKUROKA® für Abfallbeutel Höhe 25 cm, Tischständer inkl. 100 PP-Beutel   
+  + number: E705.1, amount:1, price (Euro): 17.56  
+* Mouse IgG1 kappa Isotype Control, Alexa Fluor 488, eBioscience™  
+  + number: 53-4714-80, amount:2, price (Euro): 216  
+
+**30.08.2021 - update**   
+*Gisela, Melina*  
+
+* still many orders missing  
+
+**06.09.2021 - update**  
+*Gisela, Melina*  
+
+* 14 out of 21 orders delivered. (3 further ones necessary to start lab work). Melina will start preparing buffers in the lab this week.   
+* Fixation of in RNAlater stored samples will be done in absolute ethanol. The fixation step will be done after the cleaning step 15 in the protocol. Samples stored in ethanol need to be washed in DPBS initally, before transfer to RNAlater. A further fixation is not necessary.   
+* Cell counting should be tested, and could be done in the Bürkle lab by Jovana Bozic-Petcovic (PhD student). We don't need any further material for that.  
+* Annette will be back from holiday on 13.09. That week (if everything is delivered in time and Annette is available) we could start the test run. Melina cannot prepare the samples for the FlowKON now, as the cleaned samples with antibodies can only be stored overnight in the fridge. 
+
+
+
+**13.09.2021 - update**  
+*Gisela, Melina*  
+
+* 16 out of 21 orders delivered. (3 further ones necessary to start lab work). Missing are FACS filter caps and caps, without them we cannot start. already contacted purchase department, order is in progress.   
+*	Melina edited fecalFACS protocol and uploads to fecalFACS ownCloud folder. 
+* Melina will correspond with Annette on monday for further plans, i.e. when she can take on the samples. 
+* Melina will send pipettes from Z8 lab for calibration. 
+
+
+**20.09.2021 - response Kunze regarding safety**  
+
+Copied from Email: "Offizielle Einstufungen für Kotproben sind mir nicht bekannt. Ich würde die Proben aber als potentiell infektiös betrachten und sie damit unter den Sicherheitmaßnahmen der Schutzstufe 2 nach BioStoffV sammeln, transportieren, weiter verarbeiten und inaktivieren.
+Schutzstufe 2 würde ich auch für den Kot der Fledermaus-Wildtyp-Population noch als ausreichend betrachten (obwohl Lyssaviren aus europäischen Fledermäusen der Risikogruppe 3(**) zugeordnet sind), sofern keine Experimente zur Kultivierung oder Vermehrung von Zellen oder Mikroorganismen aus den Proben erfolgen (entspricht einer Einstufung als nicht-gezielte-Tätigkeit).
+Die BioStoffV und die TRBA 100, in der die Schutzmaßnahmen festgelegt werden, füge ich bei."  
+
+"Ich weiß jedoch nicht, was in DNA/RNA Shield als desinfizierendes Agens enthalten ist. Die Liste der Organismen für die es validiert wurde, die ich gefunden habe, ist relativ kurz.
+Ethanol ist als Desinfektionsmittel nicht geeignet gegen bakterielle Sporen, unbehüllte Viren, Helminthen, Kryptosporidien, Oozysten und Protozoen.
+Ich würde daher auch bei der Bearbeitung dieser Proben entsprechende Hygienemaßnahmen empfehlen.
+
+Sie müssen dabei nicht alle in der TRBA 100 für die Schutzstufe 2 genannten Punkte erfüllen. Im Rahmen der Gefährdungsbeurteilung können Sie, da es sich um eine nicht-gezielte-Tätigkeit (nach BioStoffV) handelt, geeignete Maßnahmen auswählen (TRBA100 Punkt 4.3.2)."
+
+* safety documents available in project folder fecalFACS>sampling>biosafety
+
+
+**04.10.2021 - update**    
+*Gisela, Melina*  
+
+* Annette will start with FACS of the first samples, deliver samples on 12.10. 11:30 room M1007.   
+* Prepared DNA/RNA shield tubes for Camila/Panama (2 Boxes, 16 tubes each)  
+* All orders finished  
+* still waiting for	DPBS and tubes. Email to inquire about state of order send to purchase department. DPBS is important to start, but could also use PBS still available in the lab.   
+* Important question: Samples will all be transferred to DNA/RNAshield. According to protocol, samples should be in RNAlater. We need to clarify if samples can stay in DNA/RNAshield or if they should be transferred to RNAlater before analysis  
+
+ 
+**04.10.2021 - update-continued**    
+*Gisela, Melina*  
+
+Melina reports on Meeting with Annette/FlowKON regarding the decontamination of the samples: We cannot proceed as planned!
+Following the information by Kunze, Ethanol is not sufficient for decontamination, so samples need to be handled in a S3 flow cytometry facility, which is not available at Uni Konstanz. (In the Orkin et al. paper describing the method, FACS was conducted under an appropriate safety hood.)    
+
+**Possible next steps:**  
+
+* search for solutions for proper decontamination. Contact Orkin et al. for advice and Mr. Kunze.    
+* a S3 lab with flow cytometry under safety hood exists in Zürich. Ask if we could use this facility.    
+* DNA/RNAshield desinfects samples but also lyses cells. Hence, contrary to what we thought, it is not appropriate for the fecalFACS approach. We can still use the samples for DNA extraction without the flow cytometry step.  
+
+**06.10.2021 - update**  
+
+* Samples from Spain arrived, stored in Z8 lab fridge  
+
+
 
 
 ## Reading (notes)
