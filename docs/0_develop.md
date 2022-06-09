@@ -96,9 +96,9 @@ ccalderon@ab.mpg.de
 responsibilities: *P. discolor* sample collection (incl. permits)
 
 **Melina Dietzer**
-research assistant  
+research assistant (until 30/6/2022)  
 Sociality & Evolution/University of Konstanz  
-melina.dietzer@ab.mpg.de  
+mdietzer@ab.mpg.de  
 responsibilities: laboratory analysis, sample & data management
 
 **Javier Juste**
@@ -110,6 +110,23 @@ Spain
 juste@ebd.csic.es
 responsibilities: sample collection *N. lasiopterus* (incl. permits)  
 
+**Riya Mathur**
+research assistant (from 6/2022)  
+Sociality & Evolution/University of Konstanz  
+riya.mathur@uni-konstanz.de  
+responsibilities: laboratory analysis, sample & data management (until 7/2022)
+
+**Amanda Melin**
+advice  
+University of Calgary  
+amanda.melin@ucalgary.ca   
+responsibilities: NA  
+
+**Gwen Duytschaever**
+advice  
+University of Calgary  
+gwen.duytschaever2@ucalgary.ca   
+responsibilities: NA  
 
 ### Permits  
 :::beware
@@ -117,7 +134,7 @@ Permit name, granting organization, permit number
 :::
 
 ### Funding
-Project funding via CASCB Medium money grant 2021. GHK funded by Hector Pioneer Fellowship (Hector Foundation II & University of Konstanz). DD ???. UK ???. CC ???. 
+Project funding via CASCB Medium money grant 2021, CASCB small project grant and Zukunftskolleg co-funding. GHK funded by Hector Pioneer Fellowship (Hector Foundation II & University of Konstanz). DD ???. UK ???. CC ???. 
 
 ### Data storage
 
@@ -128,7 +145,7 @@ Project funding via CASCB Medium money grant 2021. GHK funded by Hector Pioneer 
 * Storage solution:  
 	+ RNAlater Stabilization Solution (Thermo Fisher #AM7021 500ml €580)  
 	or  
-	+ DNA/RNA shield (ZymoResearch #R1100-250 250ml €241)  
+	+ ~~DNA/RNA shield (ZymoResearch #R1100-250 250ml €241)~~  
 [alternative: DNA/RNA Fecal Collection Tube Zymo Research #R1101 €108 (10 pack)]
 * Tube labels (Carl Roth Cryo-Tags #L673.1 https://www.carlroth.com/de/de/etiketten/kryo-etiketten-auf-der-rolle-weiss/p/l673.1)  
 * Collection spatula  
@@ -136,7 +153,7 @@ Project funding via CASCB Medium money grant 2021. GHK funded by Hector Pioneer 
 * Sample collection data sheet  
 * Plastic gloves  
 
-Prefill collection tubes with storage solution (9ml DNA/RNA shield or 5ml RNAlater)
+Prefill collection tubes with storage solution (~~9ml DNA/RNA shield or~~ 5ml RNAlater)
 
 ### Conditions for samples in storage solution
 * DNA/RNA shield: -20°C indefinite; 4-25°C minimum 30 days; 35-40°C 7days  
@@ -149,7 +166,7 @@ Prefill collection tubes with storage solution (9ml DNA/RNA shield or 5ml RNAlat
 * Place one drop / one spatula of faecal material (ca. 1ml) in collection tube.  
 * Make sure that faecal material is well covered by storage solution  
 * Note sample data on tube label and in sample collection data sheet:   
-	+ Material type (i.e. “Faeces”) & storage solution (i.e. “RNAlater” or “DNA/RNA shield”)
+	+ Material type (i.e. “Faeces”) & storage solution (i.e. “RNAlater” ~~or “DNA/RNA shield”~~)
 	+ Species  
 	+ Sample number  
 	+ Date, Time  

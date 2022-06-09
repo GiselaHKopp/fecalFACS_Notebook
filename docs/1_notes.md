@@ -54,8 +54,8 @@ Here I collect meeting notes, ideas and papers read or must read.
 * **To Do**  
 	&check; ~~Gisela: compile & prepare material~~    
 	&check; ~~Gisela: finalize sample collection data sheet & protocol~~
-	+ Urs: organize shipment
-	+ Urs: payment contracts or invoice for field assistant collection work
+	+ Urs: organize shipment  
+	&check; ~~Urs: payment contracts or invoice for field assistant collection work~~
  
 
 **22.07.2021 FlowKON planning**  
@@ -84,128 +84,136 @@ Here I collect meeting notes, ideas and papers read or must read.
   
 * **To Do**  
 	&check; ~~Gisela: send DNA RNA shield data sheets to Annette~~   
-* Gisela: contact safety officer (Kunze) to get offical classification of safety level for samples  
-* Gisela: check ethanol concentration of Affenberg samples  
-* Gisela: email Michael Mende for lab introduction  
-* Gisela: order staining material 
+	&check; ~~contact safety officer (Kunze) to get offical classification of safety level for samples~~  
+	&check; ~~check ethanol concentration of Affenberg samples~~  
+	&check; ~~Gisela: email Michael Mende for lab introduction~~  
+	&check; ~~Gisela: order staining material~~ 
 
-**02.08.2021 - labintroduction**
+**02.08.2021 - labintroduction**  
 *Gisela, Michael,Melina*
 
-**ordered**
-* DPBS buffer
-  + number: BE17-512Q, amount: 3 (VE:1000ml), price (Euro): 51.90
-&check; pluriStrainer 70 μm Zellsieb
-  + number: 43-50070-51, amount: 2 (VE: 50), price (Euro): 98.00
-&check; 5 ml polystrene round- bottom FACS tubes 35 μM filter caps 
-  + number: Falcon 352235, amount:1 (VE: 500), price (Euro): 570.4
-&check; 5 ml polystrene round- bottom FACS non-filter tube caps 
-  + number: Falcon 352032, amount:1 (VE: 2000), price (Euro): 144.5
-&check; sterile, DNA freie, 50 ml tubes
-  + number: Falcon 30122186, amount:1 (VE: 300), price (Euro): 144
-&check; Ethanol absolute
-  + number: 20816298, amount:1 (VE: 1L), price (Euro): 29.9
-&check; sterile 2 ml tubes
-  + number: 30121597, amount:2 (VE: 100), price (Euro): 81.8
-&check; Filterspitze, 1000 µl, transparent, Biosphere® plus, 96 Stück/SingleRefill
-  + number: 70.3060.355, amount:1 (VE: 1920), price (Euro): --
-&check; Filterspitze, 1000 µl, transparent, Biosphere® plus, 96 Stück/Box
-  + number: 70.3060.255, amount:1 (VE: 1920), price (Euro): --
-&check; Filterspitze, 300 µl, transparent, Biosphere® plus, 96 Stück/SingleRefill
-  + number: 70.3040.355, amount:1 (VE: 1920), price (Euro): --
-&check; Filterspitze, 300 µl, transparent, Biosphere® plus, 96 Stück/Box
-  + number: 70.3040.255, amount:1 (VE: 1920), price (Euro): --
-&check; Pipettenspitze, 10 µl, transparent, Biosphere® plus, 96 Stück/Box
-  + number: 70.1130.200, amount:1 (VE: 1920), price (Euro): --
-&check; Eppendorf Research® plus
-  + number: 3123000101, amount:1, price (Euro): 257
-&check; Pan Cytokeratin Monoclonal Antibody (AE1/AE3), Alexa Fluor 488
-  + number: 53-9003-82, amount:2 (VE: 100 μg), price (Euro): 900
-&check; stain toto3 1 mM Solution in DMSO
-  + number: T3604, amount:1 (VE: 200 μl), price (Euro): 844
-&check; Tischständer SEKUROKA® für Abfallbeutel Höhe 25 cm, Tischständer
-  + number: H508.1, amount:3, price (Euro): 32.85
-&check; Tischständer SEKUROKA® für Abfallbeutel Höhe 25 cm, Tischständer inkl. 100 PP-Beutel 
-  + number: E705.1, amount:1, price (Euro): 17.56
-&check; Mouse IgG1 kappa Isotype Control, Alexa Fluor 488, eBioscience™
-  + number: 53-4714-80, amount:2, price (Euro): 216
-&check; EDTA
-  + number: AM9912, amount:1, price (Euro): 56
-&check* Dulbecco's Phosphate Buffered Saline with 2% Fetal Bovine Serum
-  + number: 7905, amount:1, price (Euro): 67
-&check; Natriumazid
-  + number: 4221.1, amount:1, price (Euro): 23.5
-&check; research Plus Pipetten Eppendorf
-  + number: 3123000900, amount: 1 (set), price (Euro): 750.89
-&check; QIAamp DNA Micro Kit (50)
-  + number: 56304, amount: 3 (VE:50), price (Euro): 663.772
-&check; Qubit™ dsDNA BR Assay Kit
-  + number: Q32850, amount: 1 (VE:100), price (Euro): 111
-&check; Pipettenständer aus Akryl
-  + number: 11394045, amount: 1, price (Euro): 67.06
-&check; DNA/RNA shield
-  + number: R1100-250, amount: 2 (VE:250 ml), price (Euro): 482
-&check; rna later
-  + number: AM7021, amount: 1 (VE:500 ml), price (Euro): 580
-&check; Qubit™ Assay Tubes
-  + number: Q32856, amount: 1 (VE:500), price (Euro): 88
-&check; High Sensitivity DNA ScreenTape Analysis
-  + number: 5067-5584, amount: 2, price (Euro): 297
-&check; High Sensitivity D1000 Reagents
-  + number: 5067-5585, amount: 2, price (Euro): 202
-&check;Genomic DNA ScreenTape Analysis
-  + number: 5067-5365, amount: 2, price (Euro): 476
-&check;Genomic DNA Reagents
-  + number: 5067-5366, amount: 2, price (Euro): 328
-&check; DPBS without calcium and magnesium 
-  + number: 37350, amount: 1 (VE:500 ml), price (Euro): 50
-&check; Sicherheitskanne aus Edelstahl 2 l
-  + number: 109274-4A, amount: 1, price (Euro): 183.96
-&check; Gewebe-Klebeband gelb
-  + number: 2-3255, amount: 1, price (Euro): 21,90
-&check; LIVE/DEAD™ Fixable Orange (602) Viability Kit, for 561 nm excitation
-  + number: L34983, amount: 1, price (Euro): 
-&check; D-PBS, 10X Concentrate (Without Ca++ and Mg++)
-  + number: 37354, amount: 1, price (Euro): 163
-&check; DAPI
-  + number: D1306, amount: 1, price (Euro): 194
+**ordered**  
+
+&check; DPBS buffer      
+  + number: BE17-512Q, amount: 3 (VE:1000ml), price (Euro): 51.90  
+&check; pluriStrainer 70 μm Zellsieb  
+  + number: 43-50070-51, amount: 2 (VE: 50), price (Euro): 98.00  
+&check; 5 ml polystrene round- bottom FACS tubes 35 μM filter caps   
+  + number: Falcon 352235, amount:1 (VE: 500), price (Euro): 570.4  
+&check; 5 ml polystrene round- bottom FACS non-filter tube caps   
+  + number: Falcon 352032, amount:1 (VE: 2000), price (Euro): 144.5  
+&check; sterile, DNA freie, 50 ml tubes  
+  + number: Falcon 30122186, amount:1 (VE: 300), price (Euro): 144  
+&check; Ethanol absolute  
+  + number: 20816298, amount:1 (VE: 1L), price (Euro): 29.9  
+&check; sterile 2 ml tubes  
+  + number: 30121597, amount:2 (VE: 100), price (Euro): 81.8  
+&check; Filterspitze, 1000 µl, transparent, Biosphere® plus, 96 Stück/SingleRefill  
+  + number: 70.3060.355, amount:1 (VE: 1920), price (Euro): --  
+&check; Filterspitze, 1000 µl, transparent, Biosphere® plus, 96 Stück/Box  
+  + number: 70.3060.255, amount:1 (VE: 1920), price (Euro): --  
+&check; Filterspitze, 300 µl, transparent, Biosphere® plus, 96 Stück/SingleRefill  
+  + number: 70.3040.355, amount:1 (VE: 1920), price (Euro): --  
+&check; Filterspitze, 300 µl, transparent, Biosphere® plus, 96 Stück/Box  
+  + number: 70.3040.255, amount:1 (VE: 1920), price (Euro): --  
+&check; Pipettenspitze, 10 µl, transparent, Biosphere® plus, 96 Stück/Box  
+  + number: 70.1130.200, amount:1 (VE: 1920), price (Euro): --  
+&check; Eppendorf Research® plus  
+  + number: 3123000101, amount:1, price (Euro): 257  
+&check; Pan Cytokeratin Monoclonal Antibody (AE1/AE3), Alexa Fluor 488  
+  + number: 53-9003-82, amount:2 (VE: 100 μg), price (Euro): 900  
+&check; stain toto3 1 mM Solution in DMSO  
+  + number: T3604, amount:1 (VE: 200 μl), price (Euro): 844   
+&check; Tischständer SEKUROKA® für Abfallbeutel Höhe 25 cm, Tischständer  
+  + number: H508.1, amount:3, price (Euro): 32.85  
+&check; Tischständer SEKUROKA® für Abfallbeutel Höhe 25 cm, Tischständer inkl. 100 PP-Beutel   
+  + number: E705.1, amount:1, price (Euro): 17.56  
+&check; Mouse IgG1 kappa Isotype Control, Alexa Fluor 488, eBioscience™  
+  + number: 53-4714-80, amount:2, price (Euro): 216  
+&check; EDTA  
+  + number: AM9912, amount:1, price (Euro): 56  
+&check* Dulbecco's Phosphate Buffered Saline with 2% Fetal Bovine Serum  
+  + number: 7905, amount:1, price (Euro): 67  
+&check; Natriumazid  
+  + number: 4221.1, amount:1, price (Euro): 23.5  
+&check; research Plus Pipetten Eppendorf  
+  + number: 3123000900, amount: 1 (set), price (Euro): 750.89  
+&check; QIAamp DNA Micro Kit (50)  
+  + number: 56304, amount: 3 (VE:50), price (Euro): 663.772  
+&check; Qubit™ dsDNA BR Assay Kit  
+  + number: Q32850, amount: 1 (VE:100), price (Euro): 111  
+&check; Pipettenständer aus Akryl  
+  + number: 11394045, amount: 1, price (Euro): 67.06  
+&check; DNA/RNA shield  
+  + number: R1100-250, amount: 2 (VE:250 ml), price (Euro): 482  
+&check; rna later  
+  + number: AM7021, amount: 1 (VE:500 ml), price (Euro): 580  
+&check; Qubit™ Assay Tubes  
+  + number: Q32856, amount: 1 (VE:500), price (Euro): 88  
+&check; High Sensitivity DNA ScreenTape Analysis  
+  + number: 5067-5584, amount: 2, price (Euro): 297  
+&check; High Sensitivity D1000 Reagents  
+  + number: 5067-5585, amount: 2, price (Euro): 202  
+&check;Genomic DNA ScreenTape Analysis  
+  + number: 5067-5365, amount: 2, price (Euro): 476  
+&check;Genomic DNA Reagents  
+  + number: 5067-5366, amount: 2, price (Euro): 328  
+&check; DPBS without calcium and magnesium   
+  + number: 37350, amount: 1 (VE:500 ml), price (Euro): 50  
+&check; Sicherheitskanne aus Edelstahl 2 l  
+  + number: 109274-4A, amount: 1, price (Euro): 183.96  
+&check; Gewebe-Klebeband gelb  
+  + number: 2-3255, amount: 1, price (Euro): 21,90  
+&check; LIVE/DEAD™ Fixable Orange (602) Viability Kit, for 561 nm excitation  
+  + number: L34983, amount: 1, price (Euro):   
+&check; D-PBS, 10X Concentrate (Without Ca++ and Mg++)  
+  + number: 37354, amount: 1, price (Euro): 163  
+&check; DAPI  
+  + number: D1306, amount: 1, price (Euro): 194  
 
 **30.08.2021 - update**  
-*Gisela, Melina*
+*Gisela, Melina*  
+
 * still many orders missing
 
 **14.12.2021 - update**  
-*Melina*
-*  4 test samples were processed in Munich with Lisa Richter. Result: When using Alexa Flour 488 staining, permeabilization of the samples is required prior to staining. Nevertheless, hardly any cells could be sorted and accordingly little DNA could be extracted. 
+*Melina*  
+
+*  4 test samples were processed in Munich with Lisa Richter. Result: When using Alexa Flour 488 staining, permeabilization of the samples is required prior to staining. Nevertheless, hardly any cells could be sorted and accordingly little DNA could be extracted.   
 Possible causes:  
-1. samples stored too long
-2. wrong stain
-3. too little fecal material
-4. loss of cells during the first purification steps --> leave out centrifugation in the first step? 
+1. samples stored too long  
+2. wrong stain  
+3. too little fecal material  
+4. loss of cells during the first purification steps --> leave out centrifugation in the first step?   
 
 **04.01.2022 - update**  
-*Melina*
+*Melina*  
+
 * 4 test samples were processed in Munich with Lisa Richter. Hardly any cells could be sorted and accordingly little DNA could be extracted.
 
 **17.02.2022 - update**  
-*Melina*
+*Melina*  
+
 * 5 test samples were processed in Munich with Lisa Richter. Hardly any cells could be sorted and accordingly little DNA could be extracted.
 
-Possible causes:  
-1. samples stored too long
-2. wrong stain
-3.Samples take too long during shipping to Munich. 
+Possible causes:    
+1. samples stored too long  
+2. wrong stain  
+3.Samples take too long during shipping to Munich.   
     
 **04.04.2022 - update**  
 *Annette, Gisela, Melina*
+
 * Discussion with Annette Sommershof about the possible processing of the Affenberg samples in Konstanz. Annette suspects that the samples have been stored too long and therefore the staining does not work well.
 
 **04.04.2022 - update**  
-*Roland, Gisela, Melina*
+*Roland, Gisela, Melina*  
+
 * Roland collects new samples to test if the samples have been stored too long. 
 
 **30.05.2022 - trouble shooting discussion**  
 *Gisela, Melina, Amanda Melin, Riya Mathur*
+
 * Melina reports on the state of the project and that the sorting so far has not provided the expected yield.  
 * Amanda highlights that the protocol is very time sensitive: as soon as the sample is taken out of RNAlater, all steps need to be completed as soon as possible. 
 * Amanda suggests to invite her lab manager Gwen Duytschaever to visit to help with optimizing the lab work. There is also an updated version of the protocol that would be helpful.    
@@ -214,6 +222,7 @@ Possible causes:
 
 **30.05.2022 - information and recommendations from Gwen**  
 *Gwen*  
+
 * Gwen provides protocols:  
 	+ recipe for DAPI stain *RECIPE 005 - DAPI staining buffer.docx*, We use this product: https://www.thermofisher.com/order/catalog/product/D1306?SKULINK #D1306, This is the manual: https://assets.thermofisher.com/TFS-Assets/LSG/manuals/mp01306.pdf
 	+ cell sorting protocol *SOP #II.09 PME Protocol for Flow cytomety-JOE_rev06_GD.docx*,  We are also using a BD FACSAria so hopefully it will be easy to set it up with the same sorting parameters. The sample prep takes between 3-4 hours (depending on the sample) and I typically sort 2 to 3 samples at a time.
