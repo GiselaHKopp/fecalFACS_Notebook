@@ -29,13 +29,14 @@ sessionInfo()
 #> [1] stats     graphics  grDevices utils     datasets  methods   base     
 #> 
 #> other attached packages:
-#> [1] checkdown_0.0.7 bookdown_0.21  
+#> [1] checkdown_0.0.7 bookdown_0.24  
 #> 
 #> loaded via a namespace (and not attached):
-#>  [1] compiler_3.6.3  magrittr_1.5    markdown_1.1    htmltools_0.5.0
-#>  [5] tools_3.6.3     yaml_2.2.1      stringi_1.4.6   rmarkdown_2.6  
-#>  [9] knitr_1.30      stringr_1.4.0   digest_0.6.25   xfun_0.17      
-#> [13] rlang_0.4.7     evaluate_0.14
+#>  [1] digest_0.6.25   R6_2.5.1        jsonlite_1.7.2  magrittr_2.0.1 
+#>  [5] evaluate_0.14   stringi_1.7.5   rlang_0.4.11    jquerylib_0.1.4
+#>  [9] bslib_0.3.1     rmarkdown_2.11  tools_3.6.3     stringr_1.4.0  
+#> [13] markdown_1.1    xfun_0.26       yaml_2.2.1      fastmap_1.1.0  
+#> [17] compiler_3.6.3  htmltools_0.5.2 knitr_1.36      sass_0.4.0
 ```
 
 ## References

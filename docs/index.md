@@ -1,7 +1,7 @@
 ---
 title: "fecalFACS Notebook"
 author: "Gisela H. Kopp"
-date: "2021-10-06"
+date: "2022-06-09"
 bibliography: book.bib
 description: A diary-style notebook for this project
 documentclass: book
